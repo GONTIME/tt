@@ -1,779 +1,445 @@
 #EXTM3U
-#EXTINF:-1,beIN Sport Premium 01 (240P)
-http://red.ipfox.org:8080/amr/123456789/31603
-#EXTINF:-1,beIN Sport Premium 02 (240P)
-http://red.ipfox.org:8080/amr/123456789/31602
-#EXTINF:-1,beIN Sport Premium 03 (240P)
-http://red.ipfox.org:8080/amr/123456789/31601
-#EXTINF:-1,beIN Sport 01 (240P)
-http://red.ipfox.org:8080/amr/123456789/31600
-#EXTINF:-1,beIN Sport 02 (240P)
-http://red.ipfox.org:8080/amr/123456789/31599
-#EXTINF:-1,beIN Sport 03 (240P)
-http://red.ipfox.org:8080/amr/123456789/31598
-#EXTINF:-1,beIN Sport 04 (240P)
-http://red.ipfox.org:8080/amr/123456789/31597
-#EXTINF:-1,beIN Sport 05 (240P)
-http://red.ipfox.org:8080/amr/123456789/31596
-#EXTINF:-1,beIN Sport 06 (240P)
-http://red.ipfox.org:8080/amr/123456789/31595
-#EXTINF:-1,beIN Sport 07 (240P)
-http://red.ipfox.org:8080/amr/123456789/31594
-#EXTINF:-1,beIN Sport Premium 01 (360P)
-http://red.ipfox.org:8080/amr/123456789/31593
-#EXTINF:-1,beIN Sport Premium 02 (360P)
-http://red.ipfox.org:8080/amr/123456789/31592
-#EXTINF:-1,beIN Sport Premium 03 (360P)
-http://red.ipfox.org:8080/amr/123456789/31591
-#EXTINF:-1,beIN Sport 01 (360P)
-http://red.ipfox.org:8080/amr/123456789/31588
-#EXTINF:-1,beIN Sport 02 (360P)
-http://red.ipfox.org:8080/amr/123456789/31587
-#EXTINF:-1,beIN Sport 03 (360P)
-http://red.ipfox.org:8080/amr/123456789/31586
-#EXTINF:-1,beIN Sport 04 (360P)
-http://red.ipfox.org:8080/amr/123456789/31585
-#EXTINF:-1,beIN Sport 05 (360P)
-http://red.ipfox.org:8080/amr/123456789/31584
-#EXTINF:-1,beIN Sport 06 (360P)
-http://red.ipfox.org:8080/amr/123456789/31583
-#EXTINF:-1,beIN Sport 07 (360P)
-http://red.ipfox.org:8080/amr/123456789/31582
-#EXTINF:-1,beIN Sport Premium 01 (480P)
-http://red.ipfox.org:8080/amr/123456789/31548
-#EXTINF:-1,beIN Sport Premium 02 (480P)
-http://red.ipfox.org:8080/amr/123456789/31547
-#EXTINF:-1,beIN Sport Premium 03 (480P)
-http://red.ipfox.org:8080/amr/123456789/31546
-#EXTINF:-1,beIN Sport 01 (480P)
-http://red.ipfox.org:8080/amr/123456789/31555
-#EXTINF:-1,beIN Sport 02 (480P)
-http://red.ipfox.org:8080/amr/123456789/31554
-#EXTINF:-1,beIN Sport 03 (480P)
-http://red.ipfox.org:8080/amr/123456789/31553
-#EXTINF:-1,beIN Sport 04 (480P)
-http://red.ipfox.org:8080/amr/123456789/31552
-#EXTINF:-1,beIN Sport 05 (480P)
-http://red.ipfox.org:8080/amr/123456789/31551
-#EXTINF:-1,beIN Sport 06 (480P)
-http://red.ipfox.org:8080/amr/123456789/31550
-#EXTINF:-1,beIN Sport 07 (480P)
-http://red.ipfox.org:8080/amr/123456789/31549
-#EXTINF:-1,beIN Sport Premium 01 (720P)
-http://red.ipfox.org:8080/amr/123456789/31529
-#EXTINF:-1,beIN Sport Premium 02 (720P)
-http://red.ipfox.org:8080/amr/123456789/31528
-#EXTINF:-1,beIN Sport Premium 03 (720P)
-http://red.ipfox.org:8080/amr/123456789/31527
-#EXTINF:-1,beIN Sport 01 (720P)
-http://red.ipfox.org:8080/amr/123456789/31536
-#EXTINF:-1,beIN Sport 02 (720P)
-http://red.ipfox.org:8080/amr/123456789/31535
-#EXTINF:-1,beIN Sport 03 (720P)
-http://red.ipfox.org:8080/amr/123456789/31534
-#EXTINF:-1,beIN Sport 04 (720P)
-http://red.ipfox.org:8080/amr/123456789/31533
-#EXTINF:-1,beIN Sport 05 (720P)
-http://red.ipfox.org:8080/amr/123456789/31532
-#EXTINF:-1,beIN Sport 06 (720P)
-http://red.ipfox.org:8080/amr/123456789/31531
-#EXTINF:-1,beIN Sport 07 (720P)
-http://red.ipfox.org:8080/amr/123456789/31530
-#EXTINF:-1,beIN Sport Premium 01 (1080P)
-http://red.ipfox.org:8080/amr/123456789/31498
-#EXTINF:-1,beIN Sport Premium 02 (1080P)
-http://red.ipfox.org:8080/amr/123456789/31497
-#EXTINF:-1,beIN Sport Premium 03 (1080P)
-http://red.ipfox.org:8080/amr/123456789/31496
-#EXTINF:-1,beIN Sport 01 (1080P)
-http://red.ipfox.org:8080/amr/123456789/31493
-#EXTINF:-1,beIN Sport 02 (1080P)
-http://red.ipfox.org:8080/amr/123456789/31492
-#EXTINF:-1,beIN Sport 03 (1080P)
-http://red.ipfox.org:8080/amr/123456789/31491
-#EXTINF:-1,beIN Sport 04 (1080P)
-http://red.ipfox.org:8080/amr/123456789/31490
-#EXTINF:-1,beIN Sport 05 (1080P)
-http://red.ipfox.org:8080/amr/123456789/31489
-#EXTINF:-1,beIN Sport 06 (1080P)
-http://red.ipfox.org:8080/amr/123456789/31488
-#EXTINF:-1,beIN Sport 07 (1080P)
-http://red.ipfox.org:8080/amr/123456789/31487
-#EXTINF:-1,|OSN| Al Yawm HD
-http://red.ipfox.org:8080/amr/123456789/2859
-#EXTINF:-1,|OSN| Cinema 1
-http://red.ipfox.org:8080/amr/123456789/2861
-#EXTINF:-1,|OSN| Cinema 2
-http://red.ipfox.org:8080/amr/123456789/2862
-#EXTINF:-1,|OSN| Discovery HD
-http://red.ipfox.org:8080/amr/123456789/2863
-#EXTINF:-1,|OSN| Disney HD
-http://red.ipfox.org:8080/amr/123456789/2864
-#EXTINF:-1,|OSN| Movies First HD
-http://red.ipfox.org:8080/amr/123456789/2865
-#EXTINF:-1,|OSN| History HD
-http://red.ipfox.org:8080/amr/123456789/2866
-#EXTINF:-1,|OSN| Movies Action HD
-http://red.ipfox.org:8080/amr/123456789/2868
-#EXTINF:-1,|OSN| Movies Disney  HD
-http://red.ipfox.org:8080/amr/123456789/2871
-#EXTINF:-1,|OSN| Movies HD
-http://red.ipfox.org:8080/amr/123456789/2872
-#EXTINF:-1,|OSN| Music Now
-http://red.ipfox.org:8080/amr/123456789/2873
-#EXTINF:-1,|OSN| Nat Geo Wild HD
-http://red.ipfox.org:8080/amr/123456789/2874
-#EXTINF:-1,|OSN| Nat Geo HD
-http://red.ipfox.org:8080/amr/123456789/2875
-#EXTINF:-1,|OSN| Series First HD
-http://red.ipfox.org:8080/amr/123456789/2877
-#EXTINF:-1,|OSN| Star Movies HD
-http://red.ipfox.org:8080/amr/123456789/2878
-#EXTINF:-1,|OSN| Star World HD
-http://red.ipfox.org:8080/amr/123456789/2879
-#EXTINF:-1,|OSN| Yahala Cinema HD
-http://red.ipfox.org:8080/amr/123456789/2880
-#EXTINF:-1,|OSN| Yahala HD
-http://red.ipfox.org:8080/amr/123456789/2881
-#EXTINF:-1,|OSN| OSN Kids Zone HD
-http://red.ipfox.org:8080/amr/123456789/2882
-#EXTINF:-1,|OSN| Yahala ALOula HD
-http://red.ipfox.org:8080/amr/123456789/2883
-#EXTINF:-1,|OSN| Musalsalat 1 HD
-http://red.ipfox.org:8080/amr/123456789/2885
-#EXTINF:-1,|OSN| Baby TV HD
-http://red.ipfox.org:8080/amr/123456789/2887
-#EXTINF:-1,|OSN| Nickelodeon HD
-http://red.ipfox.org:8080/amr/123456789/2888
-#EXTINF:-1,|OSN| Sky News HD
-http://red.ipfox.org:8080/amr/123456789/2895
-#EXTINF:-1,|OSN | Fann
-http://red.ipfox.org:8080/amr/123456789/21035
-#EXTINF:-1,|OSN| Al Safwa HD
-http://red.ipfox.org:8080/amr/123456789/21036
-#EXTINF:-1,|OSN| Musalsalat 2 HD
-http://red.ipfox.org:8080/amr/123456789/25920
-#EXTINF:-1,|News| AL Hadath
-http://red.ipfox.org:8080/amr/123456789/2901
-#EXTINF:-1,|News| Alarabiya
-http://red.ipfox.org:8080/amr/123456789/2914
-#EXTINF:-1,|News| ALarabiya ALhadath
-http://red.ipfox.org:8080/amr/123456789/2915
-#EXTINF:-1,|News| Al Jazeera
-http://red.ipfox.org:8080/amr/123456789/2913
-#EXTINF:-1,|News| Al Jazeera Mubasher
-http://red.ipfox.org:8080/amr/123456789/2912
-#EXTINF:-1,|News| BBC Arabic
-http://red.ipfox.org:8080/amr/123456789/2919
-#EXTINF:-1,|News| Alhurra Iraq
-http://red.ipfox.org:8080/amr/123456789/2907
-#EXTINF:-1,|News| AlSharqiya News
-http://red.ipfox.org:8080/amr/123456789/2904
-#EXTINF:-1,|News| Sky News Arabia
-http://red.ipfox.org:8080/amr/123456789/2920
-#EXTINF:-1,|News| France 24 AR
-http://red.ipfox.org:8080/amr/123456789/2897
-#EXTINF:-1,|News| France 24 Eng
-http://red.ipfox.org:8080/amr/123456789/2898
-#EXTINF:-1,|News| Nile News
-http://red.ipfox.org:8080/amr/123456789/2899
-#EXTINF:-1,|News| Iraqia News
-http://red.ipfox.org:8080/amr/123456789/2900
-#EXTINF:-1,|News| Almayadeen
-http://red.ipfox.org:8080/amr/123456789/2903
-#EXTINF:-1,|News| Al Mawsleya
-http://red.ipfox.org:8080/amr/123456789/2905
-#EXTINF:-1,|News| DW-TV ARABIA
-http://red.ipfox.org:8080/amr/123456789/2910
-#EXTINF:-1,|News| TRT ELARABIYE
-http://red.ipfox.org:8080/amr/123456789/2911
-#EXTINF:-1,|News| Russia Alyaum
-http://red.ipfox.org:8080/amr/123456789/2916
-#EXTINF:-1,|News| CNBC Arabia
-http://red.ipfox.org:8080/amr/123456789/2917
-#EXTINF:-1,|News| CNN
-http://red.ipfox.org:8080/amr/123456789/2918
-#EXTINF:-1,|Kids| Disney HD
-http://red.ipfox.org:8080/amr/123456789/37488
-#EXTINF:-1,|Kids| Bein Junior
-http://red.ipfox.org:8080/amr/123456789/37487
-#EXTINF:-1,|Kids| Boomerang
-http://red.ipfox.org:8080/amr/123456789/37486
-#EXTINF:-1,|Kids| Fix Foxi
-http://red.ipfox.org:8080/amr/123456789/2286
-#EXTINF:-1,|Kids| MBC 3 HD
-http://red.ipfox.org:8080/amr/123456789/25056
-#EXTINF:-1,|Kids| Rotana Kids
-http://red.ipfox.org:8080/amr/123456789/25057
-#EXTINF:-1,|Kids| OSN Kid Zone TV
-http://red.ipfox.org:8080/amr/123456789/30416
-#EXTINF:-1,|Kids| ZooMoo
-http://red.ipfox.org:8080/amr/123456789/30417
-#EXTINF:-1,|Kids| CN Arabia
-http://red.ipfox.org:8080/amr/123456789/2931
-#EXTINF:-1,|Kids| Nicktoons
-http://red.ipfox.org:8080/amr/123456789/30414
-#EXTINF:-1,|Kids| Nick Jr.
-http://red.ipfox.org:8080/amr/123456789/30413
-#EXTINF:-1,|Kids| beIN Baby
-http://red.ipfox.org:8080/amr/123456789/2301
-#EXTINF:-1,|Kids| beIN Jeem
-http://red.ipfox.org:8080/amr/123456789/2303
-#EXTINF:-1,|Kids| beIN Baraem
-http://red.ipfox.org:8080/amr/123456789/2302
-#EXTINF:-1,|Kids| Gulli Arabie HD
-http://red.ipfox.org:8080/amr/123456789/2853
-#EXTINF:-1,|Kids| Disney Junior HD
-http://red.ipfox.org:8080/amr/123456789/2857
-#EXTINF:-1,|Kids| Kids Baby Channel
-http://red.ipfox.org:8080/amr/123456789/25061
-#EXTINF:-1,|Kids| HodHod
-http://red.ipfox.org:8080/amr/123456789/25060
-#EXTINF:-1,|Kids| ZAYTOONA
-http://red.ipfox.org:8080/amr/123456789/2922
-#EXTINF:-1,|Kids| TOYOR ALJANAH
-http://red.ipfox.org:8080/amr/123456789/2924
-#EXTINF:-1,|Kids| TAHA
-http://red.ipfox.org:8080/amr/123456789/2925
-#EXTINF:-1,|kids| SPACETOON ARABIC
-http://red.ipfox.org:8080/amr/123456789/2926
-#EXTINF:-1,|kids| SAT-7 KIDS
-http://red.ipfox.org:8080/amr/123456789/2928
-#EXTINF:-1,|Kids| KARAMEESH
-http://red.ipfox.org:8080/amr/123456789/2930
-#EXTINF:-1,|Kids| Atfal &amp; mawaheb
-http://red.ipfox.org:8080/amr/123456789/2932
-#EXTINF:-1,♣♦♣ |AR| MBC Group |AR| ♣♦♣
-http://red.ipfox.org:8080/amr/123456789/32830
-#EXTINF:-1,|AR| MBC 1 HD ™
-http://red.ipfox.org:8080/amr/123456789/32831
-#EXTINF:-1,|AR| MBC 1 +2H
-http://red.ipfox.org:8080/amr/123456789/32832
-#EXTINF:-1,|AR| MBC 1 +4H
-http://red.ipfox.org:8080/amr/123456789/32833
-#EXTINF:-1,|AR| MBC 2 HD  ™
-http://red.ipfox.org:8080/amr/123456789/32834
-#EXTINF:-1,|AR| MBC 2 +2H
-http://red.ipfox.org:8080/amr/123456789/32835
-#EXTINF:-1,|AR| MBC 2 +4H
-http://red.ipfox.org:8080/amr/123456789/32836
-#EXTINF:-1,|AR| MBC 3 HD  ™
-http://red.ipfox.org:8080/amr/123456789/32837
-#EXTINF:-1,|AR| MBC 3 +2H
-http://red.ipfox.org:8080/amr/123456789/32838
-#EXTINF:-1,|AR| MBC 3 +4H
-http://red.ipfox.org:8080/amr/123456789/32839
-#EXTINF:-1,|AR| MBC 4 HD  ™
-http://red.ipfox.org:8080/amr/123456789/32841
-#EXTINF:-1,|AR| MBC 4 +2H
-http://red.ipfox.org:8080/amr/123456789/32842
-#EXTINF:-1,|AR| MBC 4 +4H
-http://red.ipfox.org:8080/amr/123456789/32843
-#EXTINF:-1,|AR| MBC 5  ™
-http://red.ipfox.org:8080/amr/123456789/32844
-#EXTINF:-1,|AR| MBC 5 +2H
-http://red.ipfox.org:8080/amr/123456789/32845
-#EXTINF:-1,|AR| MBC 5 +4H
-http://red.ipfox.org:8080/amr/123456789/32846
-#EXTINF:-1,|AR| MBC IRAQ HD  ™
-http://red.ipfox.org:8080/amr/123456789/32847
-#EXTINF:-1,|AR| MBC Iraq HD +2H
-http://red.ipfox.org:8080/amr/123456789/32848
-#EXTINF:-1,|AR| MBC ACTION HD  ™
-http://red.ipfox.org:8080/amr/123456789/32849
-#EXTINF:-1,|AR| MBC Action +2H
-http://red.ipfox.org:8080/amr/123456789/32850
-#EXTINF:-1,|AR| MBC Action +4H
-http://red.ipfox.org:8080/amr/123456789/32851
-#EXTINF:-1,|AR| MBC BOLLYWOOD HD  ™
-http://red.ipfox.org:8080/amr/123456789/32852
-#EXTINF:-1,|AR| MBC BOLLYWOOD +2H
-http://red.ipfox.org:8080/amr/123456789/32853
-#EXTINF:-1,|AR| MBC BOLLYWOOD +4H
-http://red.ipfox.org:8080/amr/123456789/32854
-#EXTINF:-1,|AR| MBC Drama HD  ™
-http://red.ipfox.org:8080/amr/123456789/32855
-#EXTINF:-1,|AR| MBC DRAMA +2H
-http://red.ipfox.org:8080/amr/123456789/32856
-#EXTINF:-1,|AR| MBC DRAMA +4H
-http://red.ipfox.org:8080/amr/123456789/32857
-#EXTINF:-1,|AR| MBC MAX HD  ™
-http://red.ipfox.org:8080/amr/123456789/32858
-#EXTINF:-1,|AR| MBC MAX +2H
-http://red.ipfox.org:8080/amr/123456789/32859
-#EXTINF:-1,|AR| MBC MAX +4H
-http://red.ipfox.org:8080/amr/123456789/32860
-#EXTINF:-1,|AR| MBC+ DRAMA HD
-http://red.ipfox.org:8080/amr/123456789/32861
-#EXTINF:-1,|AR| MBC+ Drama HD +2H
-http://red.ipfox.org:8080/amr/123456789/32862
-#EXTINF:-1,|AR| MBC+ Drama HD +4H
-http://red.ipfox.org:8080/amr/123456789/32863
-#EXTINF:-1,|AR| MBC+ VARIETY FHD
-http://red.ipfox.org:8080/amr/123456789/32864
-#EXTINF:-1,|AR| MBC MASR  ™
-http://red.ipfox.org:8080/amr/123456789/32865
-#EXTINF:-1,|AR| MBC MASR +2H
-http://red.ipfox.org:8080/amr/123456789/32866
-#EXTINF:-1,|AR| MBC MASR +4H
-http://red.ipfox.org:8080/amr/123456789/32867
-#EXTINF:-1,|AR| MBC MASR 2  ™
-http://red.ipfox.org:8080/amr/123456789/32868
-#EXTINF:-1,|AR| MBC MASR 2 +2H
-http://red.ipfox.org:8080/amr/123456789/32869
-#EXTINF:-1,|AR| MBC MASR 2 +4H
-http://red.ipfox.org:8080/amr/123456789/32870
-#EXTINF:-1,•●★ |EG| EGYPT |EG| ★●•
-http://red.ipfox.org:8080/amr/123456789/33146
-#EXTINF:-1,|EG| AL OULA
-http://red.ipfox.org:8080/amr/123456789/33147
-#EXTINF:-1,|EG| AL Thanya
-http://red.ipfox.org:8080/amr/123456789/33148
-#EXTINF:-1,|EG| Nile TV
-http://red.ipfox.org:8080/amr/123456789/33149
-#EXTINF:-1,|EG| AL Masriya
-http://red.ipfox.org:8080/amr/123456789/33150
-#EXTINF:-1,|EG| Mekameleen HD
-http://red.ipfox.org:8080/amr/123456789/33151
-#EXTINF:-1,|EG| El Sharq
-http://red.ipfox.org:8080/amr/123456789/33152
-#EXTINF:-1,|EG| WATAN TV
-http://red.ipfox.org:8080/amr/123456789/33153
-#EXTINF:-1,|EG| Mehwar
-http://red.ipfox.org:8080/amr/123456789/33154
-#EXTINF:-1,|EG| CBC
-http://red.ipfox.org:8080/amr/123456789/33155
-#EXTINF:-1,|EG| CBC Sofra
-http://red.ipfox.org:8080/amr/123456789/33156
-#EXTINF:-1,|EG| CBC Drama
-http://red.ipfox.org:8080/amr/123456789/33157
-#EXTINF:-1,|EG| EXtra News HD
-http://red.ipfox.org:8080/amr/123456789/33158
-#EXTINF:-1,|EG| ON E HD
-http://red.ipfox.org:8080/amr/123456789/33160
-#EXTINF:-1,|EG| ON Drama
-http://red.ipfox.org:8080/amr/123456789/33161
-#EXTINF:-1,|EG| ON TIME SPORT 1
-http://red.ipfox.org:8080/amr/123456789/33162
-#EXTINF:-1,|EG| ON TIME SPORT 2
-http://red.ipfox.org:8080/amr/123456789/33163
-#EXTINF:-1,|EG| ON TIME SPORT 3
-http://red.ipfox.org:8080/amr/123456789/33164
-#EXTINF:-1,|EG| Al Nahar
-http://red.ipfox.org:8080/amr/123456789/33165
-#EXTINF:-1,|EG| Al Nahar Drama
-http://red.ipfox.org:8080/amr/123456789/33166
-#EXTINF:-1,|EG| TeN TV
-http://red.ipfox.org:8080/amr/123456789/33167
-#EXTINF:-1,|EG| Sada ElBalad HD
-http://red.ipfox.org:8080/amr/123456789/33168
-#EXTINF:-1,|EG| Sada ElBalad 2
-http://red.ipfox.org:8080/amr/123456789/33169
-#EXTINF:-1,|EG| Sada ElBalad Drama
-http://red.ipfox.org:8080/amr/123456789/33170
-#EXTINF:-1,|EG| AlKahera Wal Nas 1
-http://red.ipfox.org:8080/amr/123456789/33171
-#EXTINF:-1,|EG| AlKahera Wal Nas +2
-http://red.ipfox.org:8080/amr/123456789/33172
-#EXTINF:-1,|EG| DMC HD
-http://red.ipfox.org:8080/amr/123456789/33173
-#EXTINF:-1,|EG| DMC Drama
-http://red.ipfox.org:8080/amr/123456789/33174
-#EXTINF:-1,|EG| AL Hayat
-http://red.ipfox.org:8080/amr/123456789/33175
-#EXTINF:-1,|EG| Al Hayat Muslsalat
-http://red.ipfox.org:8080/amr/123456789/33176
-#EXTINF:-1,|EG| Panorama Food
-http://red.ipfox.org:8080/amr/123456789/33178
-#EXTINF:-1,|EG| Panorama Drama 1
-http://red.ipfox.org:8080/amr/123456789/33179
-#EXTINF:-1,|EG| Panorama Drama 2
-http://red.ipfox.org:8080/amr/123456789/33180
-#EXTINF:-1,|EG| Panorama Film
-http://red.ipfox.org:8080/amr/123456789/33181
-#EXTINF:-1,|EG| ALSeha Waljamal
-http://red.ipfox.org:8080/amr/123456789/33184
-#EXTINF:-1,|EG| Misr Al Zera3eya
-http://red.ipfox.org:8080/amr/123456789/33185
-#EXTINF:-1,|EG| Al Kahera
-http://red.ipfox.org:8080/amr/123456789/33186
-#EXTINF:-1,|EG| ALDELTA
-http://red.ipfox.org:8080/amr/123456789/33187
-#EXTINF:-1,|EG| ALASKANDRIA
-http://red.ipfox.org:8080/amr/123456789/33188
-#EXTINF:-1,|EG| ALSA3EED
-http://red.ipfox.org:8080/amr/123456789/33189
-#EXTINF:-1,|EG| Cima
-http://red.ipfox.org:8080/amr/123456789/33190
-#EXTINF:-1,|EG| Nile News
-http://red.ipfox.org:8080/amr/123456789/33191
-#EXTINF:-1,|EG| Nile Life
-http://red.ipfox.org:8080/amr/123456789/33192
-#EXTINF:-1,|EG| Nile Family
-http://red.ipfox.org:8080/amr/123456789/33193
-#EXTINF:-1,|EG| Nile Drama
-http://red.ipfox.org:8080/amr/123456789/33194
-#EXTINF:-1,|EG| Nile Culture
-http://red.ipfox.org:8080/amr/123456789/33195
-#EXTINF:-1,|EG| NILE COMEDY
-http://red.ipfox.org:8080/amr/123456789/33196
-#EXTINF:-1,|EG| NILE CINEMA
-http://red.ipfox.org:8080/amr/123456789/33197
-#EXTINF:-1,|EG| MISR ELBALAD
-http://red.ipfox.org:8080/amr/123456789/33198
-#EXTINF:-1,|EG| Nile Sport
-http://red.ipfox.org:8080/amr/123456789/33200
-#EXTINF:-1,|EG| Al Ahly
-http://red.ipfox.org:8080/amr/123456789/33201
-#EXTINF:-1,|EG| Zamalek
-http://red.ipfox.org:8080/amr/123456789/33202
-#EXTINF:-1,•●★ |SA| SAUDIA ARABIA |SA| ★●•
-http://red.ipfox.org:8080/amr/123456789/33203
-#EXTINF:-1,|SA| Iqraa TV
-http://red.ipfox.org:8080/amr/123456789/33204
-#EXTINF:-1,|SA| Saudi 1
-http://red.ipfox.org:8080/amr/123456789/33205
-#EXTINF:-1,|SA| Saudi Quran
-http://red.ipfox.org:8080/amr/123456789/33206
-#EXTINF:-1,|SA| Saudi Sunnah
-http://red.ipfox.org:8080/amr/123456789/33207
-#EXTINF:-1,|SA| Saudi AlEKhbaria
-http://red.ipfox.org:8080/amr/123456789/33208
-#EXTINF:-1,|SA| Saudi Thikrayat
-http://red.ipfox.org:8080/amr/123456789/33209
-#EXTINF:-1,|SA| KSA Sports 1
-http://red.ipfox.org:8080/amr/123456789/33210
-#EXTINF:-1,|SA| KSA Sports 2
-http://red.ipfox.org:8080/amr/123456789/33211
-#EXTINF:-1,|SA| KSA Sports 3
-http://red.ipfox.org:8080/amr/123456789/33212
-#EXTINF:-1,|SA| SAUDI 24
-http://red.ipfox.org:8080/amr/123456789/33213
-#EXTINF:-1,|SA| SBC
-http://red.ipfox.org:8080/amr/123456789/33214
-#EXTINF:-1,|SA| Mecca TV
-http://red.ipfox.org:8080/amr/123456789/33215
-#EXTINF:-1,|SA| Al Sahra
-http://red.ipfox.org:8080/amr/123456789/33216
-#EXTINF:-1,|SA|ROTANA CINEMA EGY HD
-http://red.ipfox.org:8080/amr/123456789/33219
-#EXTINF:-1,|SA| ROTANA CLASSIC HD
-http://red.ipfox.org:8080/amr/123456789/33220
-#EXTINF:-1,|SA| ROTANA CINEMA KSA HD
-http://red.ipfox.org:8080/amr/123456789/33221
-#EXTINF:-1,|SA| ROTANA CLIP
-http://red.ipfox.org:8080/amr/123456789/33222
-#EXTINF:-1,|SA| ROTANA MUSIC HD
-http://red.ipfox.org:8080/amr/123456789/33223
-#EXTINF:-1,|SA| iEN Doros 01
-http://red.ipfox.org:8080/amr/123456789/33225
-#EXTINF:-1,|SA| iEN Doros 02
-http://red.ipfox.org:8080/amr/123456789/33226
-#EXTINF:-1,|SA| iEN Doros 03
-http://red.ipfox.org:8080/amr/123456789/33227
-#EXTINF:-1,|SA| iEN Doros 04
-http://red.ipfox.org:8080/amr/123456789/33228
-#EXTINF:-1,|SA| iEN Doros 05
-http://red.ipfox.org:8080/amr/123456789/33229
-#EXTINF:-1,|SA| iEN Doros 06
-http://red.ipfox.org:8080/amr/123456789/33230
-#EXTINF:-1,|SA| iEN Doros 07
-http://red.ipfox.org:8080/amr/123456789/33231
-#EXTINF:-1,|SA| iEN Doros 08
-http://red.ipfox.org:8080/amr/123456789/33232
-#EXTINF:-1,|SA| iEN Doros 09
-http://red.ipfox.org:8080/amr/123456789/33233
-#EXTINF:-1,|SA| iEN Doros 10
-http://red.ipfox.org:8080/amr/123456789/33234
-#EXTINF:-1,|SA| iEN Doros 11
-http://red.ipfox.org:8080/amr/123456789/33235
-#EXTINF:-1,|SA| iEN Doros 12
-http://red.ipfox.org:8080/amr/123456789/33236
-#EXTINF:-1,|SA| iEN Doros 13
-http://red.ipfox.org:8080/amr/123456789/33237
-#EXTINF:-1,|SA| iEN Doros 14
-http://red.ipfox.org:8080/amr/123456789/33238
-#EXTINF:-1,|SA| iEN Doros 15
-http://red.ipfox.org:8080/amr/123456789/33239
-#EXTINF:-1,|SA| iEN Doros 16
-http://red.ipfox.org:8080/amr/123456789/33240
-#EXTINF:-1,|SA| iEN Doros 17
-http://red.ipfox.org:8080/amr/123456789/33241
-#EXTINF:-1,|SA| iEN Doros 18
-http://red.ipfox.org:8080/amr/123456789/33242
-#EXTINF:-1,|SA| iEN Doros19
-http://red.ipfox.org:8080/amr/123456789/33243
-#EXTINF:-1,|SA| iEN Doros 20
-http://red.ipfox.org:8080/amr/123456789/33244
-#EXTINF:-1,|QA| Qatar TV 1
-http://red.ipfox.org:8080/amr/123456789/35061
-#EXTINF:-1,|QA| Qatar TV 2
-http://red.ipfox.org:8080/amr/123456789/35062
-#EXTINF:-1,|QA| Qatar Today
-http://red.ipfox.org:8080/amr/123456789/35063
-#EXTINF:-1,|QA| Al Rayyan 1 HD
-http://red.ipfox.org:8080/amr/123456789/35064
-#EXTINF:-1,|QA| Al Rayyan 2 HD
-http://red.ipfox.org:8080/amr/123456789/35065
-#EXTINF:-1,|QA| Al Rayyan Al Qadeem HD
-http://red.ipfox.org:8080/amr/123456789/35066
-#EXTINF:-1,|QA| beIN Sport HD
-http://red.ipfox.org:8080/amr/123456789/35067
-#EXTINF:-1,|QA| beIN Sports News HD
-http://red.ipfox.org:8080/amr/123456789/35068
-#EXTINF:-1,|QA| ALJAZEERA HD
-http://red.ipfox.org:8080/amr/123456789/35069
-#EXTINF:-1,|QA| ALJAZEERA Mubasher HD
-http://red.ipfox.org:8080/amr/123456789/35070
-#EXTINF:-1,|QA| ALJAZEERA Documentary HD
-http://red.ipfox.org:8080/amr/123456789/35071
-#EXTINF:-1,|QA| ALJAZEERA English HD
-http://red.ipfox.org:8080/amr/123456789/35072
-#EXTINF:-1,♣♦♣ |IS| ISLAMIC |IS| ♣♦♣
-http://red.ipfox.org:8080/amr/123456789/35118
-#EXTINF:-1,|IS| Al-Majd
-http://red.ipfox.org:8080/amr/123456789/35119
-#EXTINF:-1,|IS| Al-Majd3
-http://red.ipfox.org:8080/amr/123456789/35120
-#EXTINF:-1,|IS| Al Nas
-http://red.ipfox.org:8080/amr/123456789/35121
-#EXTINF:-1,|IS| Ressala
-http://red.ipfox.org:8080/amr/123456789/35122
-#EXTINF:-1,|IS| AL RAHMA
-http://red.ipfox.org:8080/amr/123456789/35123
-#EXTINF:-1,|IS| El Eiman TV
-http://red.ipfox.org:8080/amr/123456789/35124
-#EXTINF:-1,|IS| MTA
-http://red.ipfox.org:8080/amr/123456789/35125
-#EXTINF:-1,|IS| AL MAAREF
-http://red.ipfox.org:8080/amr/123456789/35126
-#EXTINF:-1,|IS| Al Awhad TV
-http://red.ipfox.org:8080/amr/123456789/35127
-#EXTINF:-1,|IS| AL NAEEM TV
-http://red.ipfox.org:8080/amr/123456789/35128
-#EXTINF:-1,|IS| AL IMAN TV
-http://red.ipfox.org:8080/amr/123456789/35129
-#EXTINF:-1,|IS| MDEEH
-http://red.ipfox.org:8080/amr/123456789/35130
-#EXTINF:-1,|IS| Azhari
-http://red.ipfox.org:8080/amr/123456789/35131
-#EXTINF:-1,|IS| WESAL TV
-http://red.ipfox.org:8080/amr/123456789/35132
-#EXTINF:-1,|IS| IMAM SADEQ
-http://red.ipfox.org:8080/amr/123456789/35133
-#EXTINF:-1,|IS| Safa
-http://red.ipfox.org:8080/amr/123456789/35134
-#EXTINF:-1,|IS| Al Nada TV
-http://red.ipfox.org:8080/amr/123456789/35135
-#EXTINF:-1,|IS| Menhag Alnbowa
-http://red.ipfox.org:8080/amr/123456789/35136
-#EXTINF:-1,|IS| Alfath
-http://red.ipfox.org:8080/amr/123456789/35137
-#EXTINF:-1,|IT| Rai 1 HD
-http://red.ipfox.org:8080/amr/123456789/18226
-#EXTINF:-1,|IT| Rai 1
-http://red.ipfox.org:8080/amr/123456789/18227
-#EXTINF:-1,|IT| Rai 2 HD
-http://red.ipfox.org:8080/amr/123456789/18228
-#EXTINF:-1,|IT| Rai 2
-http://red.ipfox.org:8080/amr/123456789/18229
-#EXTINF:-1,|IT| Rai 3 HD
-http://red.ipfox.org:8080/amr/123456789/18230
-#EXTINF:-1,|IT| Rai 4 HD
-http://red.ipfox.org:8080/amr/123456789/18231
-#EXTINF:-1,|IT| Rai 4
-http://red.ipfox.org:8080/amr/123456789/18232
-#EXTINF:-1,|IT| Rai 5 HD
-http://red.ipfox.org:8080/amr/123456789/18233
-#EXTINF:-1,|IT| Rai 5
-http://red.ipfox.org:8080/amr/123456789/18234
-#EXTINF:-1,|IT| Rai Gulp
-http://red.ipfox.org:8080/amr/123456789/18235
-#EXTINF:-1,|IT| Rai Movie HD
-http://red.ipfox.org:8080/amr/123456789/18236
-#EXTINF:-1,|IT| Rai Movie
-http://red.ipfox.org:8080/amr/123456789/18237
-#EXTINF:-1,|IT| Rai News 24
-http://red.ipfox.org:8080/amr/123456789/18238
-#EXTINF:-1,|IT| Rai Premium
-http://red.ipfox.org:8080/amr/123456789/18239
-#EXTINF:-1,|IT| Rai Scuola
-http://red.ipfox.org:8080/amr/123456789/18240
-#EXTINF:-1,|IT| Rai Sport 1 HD
-http://red.ipfox.org:8080/amr/123456789/18241
-#EXTINF:-1,|IT| Rai Sport 2
-http://red.ipfox.org:8080/amr/123456789/18242
-#EXTINF:-1,|IT| Rai Storia
-http://red.ipfox.org:8080/amr/123456789/18243
-#EXTINF:-1,|IT| Real Giallo
-http://red.ipfox.org:8080/amr/123456789/18244
-#EXTINF:-1,|IT| Real Time +1 HD
-http://red.ipfox.org:8080/amr/123456789/18245
-#EXTINF:-1,|IT| Real Time HD
-http://red.ipfox.org:8080/amr/123456789/18246
-#EXTINF:-1,|IT| Rete 4
-http://red.ipfox.org:8080/amr/123456789/18248
-#EXTINF:-1,|IT| Italia Uno
-http://red.ipfox.org:8080/amr/123456789/18249
-#EXTINF:-1,|IT| Italia 2 HD
-http://red.ipfox.org:8080/amr/123456789/18250
-#EXTINF:-1,|IT| Canale 5 HD
-http://red.ipfox.org:8080/amr/123456789/18251
-#EXTINF:-1,|IT| RSI La 1 HD
-http://red.ipfox.org:8080/amr/123456789/18253
-#EXTINF:-1,|IT| RSI La 2 HD
-http://red.ipfox.org:8080/amr/123456789/18254
-#EXTINF:-1,|IT| Mediaset Extra
-http://red.ipfox.org:8080/amr/123456789/18255
-#EXTINF:-1,|IT| Mediaset TGCOM24
-http://red.ipfox.org:8080/amr/123456789/18257
-#EXTINF:-1,|IT| Sky Cinema Uno HD
-http://red.ipfox.org:8080/amr/123456789/18258
-#EXTINF:-1,|IT| Sky Cinema Uno +24 HD
-http://red.ipfox.org:8080/amr/123456789/18259
-#EXTINF:-1,|IT| Sky Cinema Comedy HD
-http://red.ipfox.org:8080/amr/123456789/18260
-#EXTINF:-1,|IT| Sky Cinema Drama HD
-http://red.ipfox.org:8080/amr/123456789/18261
-#EXTINF:-1,|IT| Sky Cinema Due HD
-http://red.ipfox.org:8080/amr/123456789/18262
-#EXTINF:-1,|IT| Sky Cinema Family HD
-http://red.ipfox.org:8080/amr/123456789/18263
-#EXTINF:-1,|IT| Sky Cinema Action HD
-http://red.ipfox.org:8080/amr/123456789/18264
-#EXTINF:-1,|IT| Sky Cinema Romance HD
-http://red.ipfox.org:8080/amr/123456789/18265
-#EXTINF:-1,|IT| Sky Cinema Suspense HD
-http://red.ipfox.org:8080/amr/123456789/18266
-#EXTINF:-1,|IT| Sky Arte HD
-http://red.ipfox.org:8080/amr/123456789/18268
-#EXTINF:-1,|IT| Sky Atlantic HD
-http://red.ipfox.org:8080/amr/123456789/18269
-#EXTINF:-1,|IT| FOX HD
-http://red.ipfox.org:8080/amr/123456789/18270
-#EXTINF:-1,|IT| Fox Crime HD
-http://red.ipfox.org:8080/amr/123456789/18272
-#EXTINF:-1,|IT| Fox Life HD
-http://red.ipfox.org:8080/amr/123456789/18275
-#EXTINF:-1,|IT| PrimaFila 1 HD
-http://red.ipfox.org:8080/amr/123456789/18276
-#EXTINF:-1,|IT| PrimaFila 2 HD
-http://red.ipfox.org:8080/amr/123456789/18277
-#EXTINF:-1,|IT| PrimaFila 3 HD
-http://red.ipfox.org:8080/amr/123456789/18278
-#EXTINF:-1,|IT| PrimaFila 4 HD
-http://red.ipfox.org:8080/amr/123456789/18279
-#EXTINF:-1,|IT| PrimaFila 5 HD
-http://red.ipfox.org:8080/amr/123456789/18280
-#EXTINF:-1,|IT| PrimaFila 6 HD
-http://red.ipfox.org:8080/amr/123456789/18281
-#EXTINF:-1,|IT| PrimaFila 7 HD
-http://red.ipfox.org:8080/amr/123456789/18282
-#EXTINF:-1,|IT| PrimaFila 8 HD
-http://red.ipfox.org:8080/amr/123456789/18283
-#EXTINF:-1,|IT| PrimaFila 9 HD
-http://red.ipfox.org:8080/amr/123456789/18284
-#EXTINF:-1,|IT| Premium Cinema +24
-http://red.ipfox.org:8080/amr/123456789/18285
-#EXTINF:-1,|IT| Premium Cinema Comedy
-http://red.ipfox.org:8080/amr/123456789/18286
-#EXTINF:-1,|IT| Premium Cinema Energy
-http://red.ipfox.org:8080/amr/123456789/18287
-#EXTINF:-1,|IT| Premium Cinema HD
-http://red.ipfox.org:8080/amr/123456789/18288
-#EXTINF:-1,|IT| Premium Crime HD
-http://red.ipfox.org:8080/amr/123456789/18290
-#EXTINF:-1,|IT| Premium Emotion
-http://red.ipfox.org:8080/amr/123456789/18291
-#EXTINF:-1,|IT| Premium Stories
-http://red.ipfox.org:8080/amr/123456789/18292
-#EXTINF:-1,|IT| Premium Studio Universal
-http://red.ipfox.org:8080/amr/123456789/18293
-#EXTINF:-1,|IT| Premium Action
-http://red.ipfox.org:8080/amr/123456789/18294
-#EXTINF:-1,|IT| Dea Junior
-http://red.ipfox.org:8080/amr/123456789/18295
-#EXTINF:-1,|IT| Disney Channel
-http://red.ipfox.org:8080/amr/123456789/18298
-#EXTINF:-1,|IT| Disney Junior
-http://red.ipfox.org:8080/amr/123456789/18299
-#EXTINF:-1,|IT| Nick Junior
-http://red.ipfox.org:8080/amr/123456789/18300
-#EXTINF:-1,|IT| Nickelodeon
-http://red.ipfox.org:8080/amr/123456789/18301
-#EXTINF:-1,|IT| Cartoon Network
-http://red.ipfox.org:8080/amr/123456789/18302
-#EXTINF:-1,|IT| Cartoonito
-http://red.ipfox.org:8080/amr/123456789/18304
-#EXTINF:-1,|IT| Rai YoYo HD
-http://red.ipfox.org:8080/amr/123456789/18305
-#EXTINF:-1,|IT| Boing
-http://red.ipfox.org:8080/amr/123456789/18306
-#EXTINF:-1,|IT| K2
-http://red.ipfox.org:8080/amr/123456789/18308
-#EXTINF:-1,|IT| Frisbee
-http://red.ipfox.org:8080/amr/123456789/18310
-#EXTINF:-1,|IT| MANGA
-http://red.ipfox.org:8080/amr/123456789/18312
-#EXTINF:-1,|IT| Super!
-http://red.ipfox.org:8080/amr/123456789/18313
-#EXTINF:-1,|IT| Sky Calcio 1
-http://red.ipfox.org:8080/amr/123456789/18314
-#EXTINF:-1,|IT| Sky Calcio 2
-http://red.ipfox.org:8080/amr/123456789/18315
-#EXTINF:-1,|IT| Sky Calcio 3 HD
-http://red.ipfox.org:8080/amr/123456789/18316
-#EXTINF:-1,|IT| Sky Calcio 4 HD
-http://red.ipfox.org:8080/amr/123456789/18317
-#EXTINF:-1,|IT| Sky Calcio 5 HD
-http://red.ipfox.org:8080/amr/123456789/18318
-#EXTINF:-1,|IT| Sky Supercalcio Serie A
-http://red.ipfox.org:8080/amr/123456789/18321
-#EXTINF:-1,|IT| Sky Sport Serie A FHD
-http://red.ipfox.org:8080/amr/123456789/18322
-#EXTINF:-1,|IT| Sky Sport F1 HD
-http://red.ipfox.org:8080/amr/123456789/18323
-#EXTINF:-1,|IT| Sky Sport MotoGP HD
-http://red.ipfox.org:8080/amr/123456789/18324
-#EXTINF:-1,|IT| Sky Sport 1
-http://red.ipfox.org:8080/amr/123456789/18325
-#EXTINF:-1,|IT| Sky Sport 24 HD
-http://red.ipfox.org:8080/amr/123456789/18326
-#EXTINF:-1,|IT| Sky Sport Football HD
-http://red.ipfox.org:8080/amr/123456789/18327
-#EXTINF:-1,|IT| Sky Sport NBA HD
-http://red.ipfox.org:8080/amr/123456789/18328
-#EXTINF:-1,|IT| Sky Sport Plus HD
-http://red.ipfox.org:8080/amr/123456789/18329
-#EXTINF:-1,|IT| Sky Sport Uno FHD
-http://red.ipfox.org:8080/amr/123456789/18331
-#EXTINF:-1,|IT| Sport alia
-http://red.ipfox.org:8080/amr/123456789/18332
-#EXTINF:-1,|IT| Super TV
-http://red.ipfox.org:8080/amr/123456789/18333
-#EXTINF:-1,|IT| Super Tennis HD
-http://red.ipfox.org:8080/amr/123456789/18334
-#EXTINF:-1,|IT| SuperTennis
-http://red.ipfox.org:8080/amr/123456789/18335
-#EXTINF:-1,|IT| Inter Channel
-http://red.ipfox.org:8080/amr/123456789/18336
-#EXTINF:-1,|IT| Juventus Channel
-http://red.ipfox.org:8080/amr/123456789/18337
-#EXTINF:-1,|IT| Lazio Style Channel
-http://red.ipfox.org:8080/amr/123456789/18338
-#EXTINF:-1,|IT| Milan Channel
-http://red.ipfox.org:8080/amr/123456789/18339
-#EXTINF:-1,|IT| Roma Channel
-http://red.ipfox.org:8080/amr/123456789/18340
-#EXTINF:-1,|IT| Wrestling
-http://red.ipfox.org:8080/amr/123456789/18341
-#EXTINF:-1,|IT| Pesca e Caccia
-http://red.ipfox.org:8080/amr/123456789/18342
-#EXTINF:-1,|IT| Caccia e Pesca
-http://red.ipfox.org:8080/amr/123456789/18343
-#EXTINF:-1,|IT| EuroSport 1 HD
-http://red.ipfox.org:8080/amr/123456789/18345
-#EXTINF:-1,|IT| EuroSport 2 HD
-http://red.ipfox.org:8080/amr/123456789/18346
-#EXTINF:-1,|IT| AutoMoto TV
-http://red.ipfox.org:8080/amr/123456789/18347
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/qorantv.jpg" group-title="",Al Quran Al Kareem
+http://m.live.net.sa:1935/live/quran/playlist.m3u8
+#EXTINF:-1 tvg-id="Saudi Sunnah ARB" tvg-name="Saudi Sunnah ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/sunaa.jpg" group-title="",Al Sunnah (Medina)
+http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+#EXTINF:-1 tvg-language="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/saudi/saudi_1.jpg" group-title="",Saudi TV 1
+http://www.elahmad.com/tv/m3u8/online_live_9_tv.m3u8?id=saudi_tv&v=1587034862
+#EXTINF:-1 tvg-id="SBC" tvg-name="SBC" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/sbc_saudi.jpg" group-title="General",SBC 
+http://www.elahmad.com/tv/m3u8/online_live_9_tv.m3u8?id=sbc_tv&v=1274498615
+#EXTINF:-1 tvg-id="Thikrayat Tv" tvg-name="Thikrayat Tv" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/thikrayat_tv.jpg" group-title="Classic",Thikrayat TV
+http://www.elahmad.com/tv/m3u8/online_live_9_tv.m3u8?id=saudi_thikrayat&v=608199672
+#EXTINF:-1 tvg-id="Thikrayat Tv" tvg-name="Thikrayat Tv" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/saudi/saudi_alekhbariya.jpg" group-title="Classic",Al Ekhbariya
+http://www.elahmad.com/tv/m3u8/online_live_9_tv.m3u8?id=saudi_ekhbariya&v=1161938098
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ahl_alquran.jpg" group-title="",Ahl Alquran TV
+https://ahlualquran.tv/live/ysfbfBvecZ/SaNVjgaYnE/8.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alwantv.jpg" group-title="",Al wan TV
+http://82.212.74.99:8000/live/8112.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/al_khalij.jpg" group-title="",Al Khalij
+https://mn-nl.mncdn.com/khalij/khalij/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/beity_tv.jpg" group-title="",Beity
+http://82.212.74.2:8000/live/7312.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/mawadatv.jpg" group-title="",Mawada TV
+http://82.212.74.98:8000/live/7821.m3u8
+#EXTINF:-1 tvg-id="Iqraa" tvg-name="Iqraa" tvg-language="Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/iqraa_tv.jpg" group-title="Religious",Iqraa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="English" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/iqraa_international.jpg" group-title="Religious",Iqraa Europe Africa
+https://iqraac.cdn.mangomolo.com/iqraa/smil:iqraar2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/makkahtv.jpg" group-title="",Makkah TV
+http://makkahtv.srfms.com:1935/makkahtv/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Asharq.sa" tvg-name="Asharq" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/asharq_tv.jpg" group-title="Business",Asharq
+https://svs.itworkscdn.net/bloomberarlive/bloomberg.smil/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaHD.sa" tvg-name="Rotana Cinema HD" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_cinema.jpg" group-title="Movies",Rotana Cinema HD
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 tvg-id="RotanaCinemaHDKSA.sa" tvg-name="Rotana Cinema HD KSA" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_cinema.jpg" group-title="Movies",Rotana Cinema HD KSA
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Classic ARB" tvg-name="Rotana Classic ARB" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_classic.jpg" group-title="Classic",Rotana Classic HD
+https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index.m3u8
+rama" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_drama.jpg" group-title="General",Rotana Drama HD
+https://shls-rotanadrama-prod-dub.shahid.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index.m3u8
+#EXTINF:-1 tvg-id="Rotana Khalijiah" tvg-name="Rotana Khalijiah" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_khlijia.jpg" group-title="Music",Rotana Khalijia HD
+https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index.m3u8
+#EXTINF:-1 tvg-id="RotanaKids.sa" tvg-name="Rotana Kids" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_kids.jpg" group-title="Kids",Rotana Kids
+https://shls-rotanakids-prod-dub.shahid.net/out/v1/df6e0eb3cdc4410b98209aafc8677cef/index.m3u8
+#EXTINF:-1 tvg-id="RotanaPlus.sa" tvg-name="Rotana+" tvg-country="SA" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rotana_hd.jpg" group-title="General",Rotana+ HD
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alwaqetv.jpg" group-title="General",Alwaqe Tv
+https://www.youtube.com/embed/live_stream?channel=UCbnHOTI-v-xp9MBdp57JsJw&autoplay=1
+
+#EXTINF:-1 tvg-id="KTV 1 ARB" tvg-name="KTV 1 ARB" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/kwtv_1.jpg" group-title="",KTV 1
+http://www.elahmad.com/tv/m3u8/kuwait_tv_4.php?id=kwtv1
+#EXTINF:-1 tvg-id="KTV 2 ARB" tvg-name="KTV 2 ARB" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/kwtv_2.jpg" group-title="",KTV 2
+http://www.elahmad.com/tv/m3u8/kuwait_tv_4.php?id=kwtv2
+#EXTINF:-1 tvg-id="KTVAlMajlis.kw" tvg-name="KTV Al Majlis" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/kwtv_almjles.jpg" group-title="",KTV Al Majlis
+http://www.elahmad.com/tv/m3u8/kuwait_tv_4.php?id=kwtvmajlis
+#EXTINF:-1 tvg-id="KTVAlQurain.kw" tvg-name="KTV Al Qurain" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/kwtv_plus.jpg" group-title="",KTV Al Qurain
+http://www.elahmad.com/tv/m3u8/kuwait_tv_4.php?id=kwtvqurain
+#EXTINF:-1 tvg-id="KTV.kw" tvg-name="KTV" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/kwtv_arabe.jpg" group-title="",KTV Arabe
+http://www.elahmad.com/tv/m3u8/kuwait_tv_4.php?id=kwtvarabi
+#EXTINF:-1 tvg-id="KTVEthraa.kw" tvg-name="KTV Ethraa" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/kwtv_ethraa.jpg" group-title="",KTV Ethraa
+http://www.elahmad.com/tv/m3u8/kuwait_tv_4.php?id=kwtvethraa
+#EXTINF:-1 tvg-id="KTVKhallikBilbait.kw" tvg-name="KTV Khallik Bilbait" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/kwtv_kids.jpg" group-title="",KTV Khallik Bilbait
+http://www.elahmad.com/tv/m3u8/kuwait_tv_4.php?id=kwtvkids
+#EXTINF:-1 tvg-id="KTV Sport ARB" tvg-name="KTV Sport ARB" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/kwtv_sport.jpg" group-title="Sport",KTV Sport
+http://www.elahmad.com/tv/m3u8/kuwait_tv_4.php?id=kwtvsports
+#EXTINF:-1 tvg-id="KTVSportPlus.kw" tvg-name="KTV Sport Plus" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/kwtv_sport_plus.jpg" group-title="",KTV Sport Plus
+http://www.elahmad.com/tv/m3u8/kuwait_tv_4.php?id=kwtvsportsplus
+#EXTINF:-1 tvg-id="AlBawadi.kw" tvg-name="Al-Bawadi" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bawaditv.jpg" group-title="",Al-Bawadi
+https://gulfsat.cdn.easybroadcast.fr/live/Al-Bawadi_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSabah.kw" tvg-name="Al-Sabah" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alsabahtv.jpg" group-title="",Al-Sabah
+https://gulfsat.cdn.easybroadcast.fr/live/Al-Sabah_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="AlShahed.kw" tvg-name="Al-Shahed" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alshahed_tv.jpg" group-title="",Al-Shahed
+https://gulfsat.cdn.easybroadcast.fr/abr_live/Al-Shahed/playlist.m3u8
+#EXTINF:-1 tvg-id="AlraiTV.kw" tvg-name="Alrai TV" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alraitv.jpg" group-title="",Alrai TV
+https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
+#EXTINF:-1 tvg-id="atv.kw" tvg-name="atv" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/atvkuwait.jpg" group-title="",atv
+https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="Funoon.kw" tvg-name="Funoon" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/funoon.jpg" group-title="",Funoon
+https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/playlist.m3u8
+#EXTINF:-1 tvg-id="MarinaTV.kw" tvg-name="Marina TV" tvg-country="KW" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Marinatv_logo_2015.png" group-title="",Marina TV
+https://gulfsat.cdn.easybroadcast.fr/abr_live/MarinaTv/live/MarinaTv_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="ScopeTV.kw" tvg-name="Scope TV" tvg-country="KW" tvg-language="Arabic" tvg-logo="https://i5.satexpat.com/cha/kw/scope_95x84.gif" group-title="",Scope TV
+https://gulfsat.cdn.easybroadcast.fr/live/Scope_abr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Sharjah TV ARB" tvg-name="Sharjah TV ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/al_shariqah.jpg" group-title="",Sharjah TV
+https://svs.itworkscdn.net/smc1live/smc1.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/sharjahtv2.jpg" group-title="",Sharjah 2
+https://svs.itworkscdn.net/smc2live/smc2tv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sharqiya from Kalba ARB" tvg-name="Sharqiya from Kalba ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/al_sharjah_kalba.jpg" group-title="",Sharqiya from Kalba TV
+https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Sharjah Sports HD ARB" tvg-name="Sharjah Sports HD ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/al_sharjah_sport.jpg" group-title="Sport",Sharjah Sport
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Drama ARB" tvg-name="Abu Dhabi Drama ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/abu_dhabi_drama.jpg" group-title="",Abu Dhabi Drama
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 1 ARB" tvg-name="Abu Dhabi Sports ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 2 ARB" tvg-name="Abu Dhabi Sports 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi Sports 3 ARB" tvg-name="Abu Dhabi Sports 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Sport",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Abu Dhabi TV ARB" tvg-name="Abu Dhabi 1 ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/abudhabitv.jpg" group-title="General",Abu Dhabi TV
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alaan.jpg" group-title="",Al Aan TV
+https://streamingcdn.alaan.tv/Publisher/alaantv_twitter/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="",3eesh Al Aan TV
+https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya ARB" tvg-name="Al Arabiya ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alarabiya.jpg" group-title="News",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya Al Hadath ARB" tvg-name="Al Arabiya Al Hadath ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/al_arabiya_alhadath.jpg" group-title="News",Al Arabiya Al Hadath
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Arabiya Al Hadath ARB" tvg-name="Al Arabiya Al Hadath ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/al_arabiya_alhadath.jpg" group-title="News",Al Arabiya Al Hadath
+https://www.youtube.com/channel/UCrj5BGAhtWxDfqbza9T9hqA
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aldafrah_tv.jpg" group-title="",Al Dhafra TV
+https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alwousta.jpg" group-title="",AlWousta TV
+https://svs.itworkscdn.net/alwoustalive/alwoustatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/CartoonNetwork.jpg" group-title="Kids",Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8
+#EXTINF:-1 tvg-id="Dubai One ARB" tvg-name="Dubai One ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/dubai_one.jpg" group-title="Movies",Dubai One
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai Racing ARB" tvg-name="Dubai Racing ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/dubai_racing.jpg" group-title="Sport",Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/dubai_racing.jpg" group-title="Sport",Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/dubai_racing.jpg" group-title="Sport",Dubai Racing 3
+https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 1 ARB" tvg-name="Dubai Sports 1 ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/dubai_sports.jpg" group-title="Sport",Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 2 ARB" tvg-name="Dubai Sports 2 ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/dubai_sports.jpg" group-title="Sport",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 tvg-id="Dubai Sports 3 ARB" tvg-name="Dubai Sports 3 ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/dubai_sports.jpg" group-title="Sport",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 tvg-id="Dubai TV ARB" tvg-name="Dubai TV ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/dubai_tv.jpg" group-title="",Dubai TV
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Etisalat Dubai Zaman TV ARB" tvg-name="Etisalat Dubai Zaman TV ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/dubaizaman.jpg" group-title="",Dubai Zaman
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Noor Dubai ARB" tvg-name="Noor Dubai ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/noor_dubai.jpg" group-title="",Noor Dubai
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="Sama Dubai ARB" tvg-name="Sama Dubai ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/sama_dubai.jpg" group-title="",Sama Dubai
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Emarat TV ARB" tvg-name="Al Emarat TV ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/abudhabi_alemarat.jpg" group-title="",Emarat TV
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/majid_tv.jpg" group-title="",Majid TV
+https://admdn5.cdn.mangomolo.com/majid/smil:majid.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc1.jpg" group-title="",MBC
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc2.jpg" group-title="Movies",MBC 2
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc3.jpg" group-title="",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index.m3u8
+#EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc4.jpg" group-title="",MBC 4
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 tvg-id="MBC 5 ARB" tvg-name="MBC 5 ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc5.jpg" group-title="",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_action.jpg" group-title="Movies",MBC Action
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/MBC_Bollywood_TV_Channel_Logo.png" group-title="Entertainment",MBC Bollywood
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+#EXTINF:-1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_drama.jpg" group-title="Movies",MBC Drama
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 tvg-id="MBCDramaPlus.ae" tvg-name="MBC Drama Plus ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_drama_plus.jpg" group-title="Movies",MBC Drama PLUS
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Iraq" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg" group-title="",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Masr 1" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr.jpg" group-title="",MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MBC Masr 2" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg" group-title="",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc-max.jpg" group-title="Movies",MBC Max
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:-1 tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="",MBC Persia
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
+#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/national_geographic.jpg" group-title="",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/yastv.jpg" group-title="",Yas
+https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="English" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/peacetv.jpg" group-title="Religious",Peace TV English
+http://199.223.252.162:8032/english_adaptive/index.m3u8
+
+#EXTINF:-1 tvg-id="Al Jazeera Arabic" tvg-name="Al Jazeera Arabic ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljazeera.jpg" group-title="News",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/index.m3u8
+#EXTINF:-1 tvg-language="" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljazeera_documentaire.jpg" group-title="",Al Jazeera Documentary
+https://live-hls-web-ajd.getaj.net/AJD/index.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera English ARB" tvg-name="Al Jazeera English ARB" tvg-language="English" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/al_jazeera_english.jpg" group-title="News",Al Jazeera English
+https://live-hls-web-aje.getaj.net/AJE/index.m3u8
+#EXTINF:-1 tvg-id="Al Jazeera Mubasher ARB" tvg-name="Al Jazeera Mubasher ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljazeera_mubasher.jpg" group-title="News",Al Jazeera Mubasher
+https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+#EXTINF:-1 tvg-id="Al Kass One ARB" tvg-name="Al Kass One ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alkass_1.jpg" group-title="Sport",Al Kass Sports 1
+http://www.elahmad.com/tv/m3u8/online_live_9_tv.m3u8?id=alkass1&v=558921299
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alkass_2.jpg" group-title="Sport",Al Kass Sports 2
+http://www.elahmad.com/tv/m3u8/online_live_9_tv.m3u8?id=alkass2&v=722090119
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alkass_4.jpg" group-title="Sport",Al Kass Sports 4
+http://www.elahmad.com/tv/m3u8/online_live_9_tv.m3u8?id=alkass4&v=1489637245
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alkass_5.jpg" group-title="Sport",Al Kass Sports 5
+http://www.elahmad.com/tv/m3u8/online_live_9_tv.m3u8?id=alkass5&v=1850687520
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alkassonline.jpg" group-title="Sport",Al Kass Online
+http://www.elahmad.com/tv/m3u8/online_live_9_tv.m3u8?id=alkassonline&v=1060886903
+#EXTINF:-1 tvg-id="Al Rayan ARB" tvg-name="Al Rayan ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alrayyan_tv.jpg" group-title="",Al Rayyan
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alrayyan_alqadeem.jpg" group-title="",Al Rayyan Al Qadeem
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/qatartv.jpg" group-title="General",Qatar TV
+https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/qatartv-two.jpg" group-title="General",Qatar TV 2
+https://qatartv.akamaized.net/hls/live/2026574/qtv2/master.m3u8
+
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bahrain_quaran.jpg" group-title="",Bahrain Quran
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainquran_all/playlist.m3u8
+#EXTINF:-1 tvg-id="Al Bahrain TV ARB" tvg-name="Al Bahrain TV ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bahraintv.jpg" group-title="",Bahrain TV
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20TV_all/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bahrain_international.jpg" group-title="",Bahrain International
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20International_all/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bahrain_sport.jpg" group-title="",Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/bahrain_sport.jpg" group-title="",Bahrain Sports 2
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports%202_all/playlist.m3u8
+
+
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alistiqama.jpg" group-title="",Al Istiqama TV
+https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8
+#EXTINF:-1 tvg-id="Oman Sport ARB" tvg-name="Oman Sport ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/oman_sport.jpg" group-title="Sport",Oman Sport
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/oman_tv.jpg" group-title="",Oman TV
+https://partne.cdn.mangomolo.com/omantv/smil:omantv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/omantv_cultural.jpg" group-title="",Oman TV Cultural
+https://partwo.cdn.mangomolo.com/omcultural/smil:omcultural.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/oman_live.jpg" group-title="",Oman TV Mubashir
+https://partwo.cdn.mangomolo.com/omlive/smil:omlive.stream.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alfathtv.jpg" group-title="EGYPT",Al Fath TV
+https://alfat7-tv.com:5443/LiveApp/streams/620557409296623865738787.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/elsharqtv.jpg" group-title="EGYPT",Al Sharq
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr.jpg" group-title="",MBC Masr 1
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 2 ARB" tvg-name="MBC Masr 2 ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_masr2.jpg" group-title="",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mekameleentv.jpg" group-title="EGYPT",Mekameleen TV
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/watanegypt.jpg" group-title="EGYPT",Watan TV
+http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/cbc.jpg" group-title="EGYPT",CBC 
+https://www.youtube.com/embed/live_stream?channel=UCUHq39HXLyAjjMPIjsNRLpw&autoplay=1
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/CBCeXtra.jpg" group-title="EGYPT",CBC EXtra 
+https://www.youtube.com/embed/live_stream?channel=UC65F33K2cXk9hGDbOQYhTOw&autoplay=1
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/CBCDrama.jpg" group-title="EGYPT",CBC Drama
+https://www.youtube.com/embed/live_stream?channel=UC6vnBggs5mkGu7dMaGso_rw&autoplay=1
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/cbc_sofra.jpg" group-title="EGYPT",CBC Sofra
+https://www.youtube.com/embed/live_stream?channel=UC--UtxrU7FWNCp0l7AG9EIw&autoplay=1
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alaraby_tv.jpg" group-title="EGYPT",AL ARABY TV
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alkaherawalnas.jpg" group-title="EGYPT",Alkahera walnas
+https://www.youtube.com/embed/live_stream?channel=UCzWdc0aUo0IDk5ysLrt04hw&autoplay=1
+
+
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/218tv.jpg" group-title="",Libya 218
+https://218tv.akamaized.net/edge/live_3fd9440026a711eca011ed5ece276ef4/index.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/libya218news.jpg" group-title="News",Libya 218 News
+https://218tv.akamaized.net/edge/live_3982873027cc11ec86950df2beca5773/index.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/tanasuh.jpg" group-title="News",Tanasuh
+https://www.youtube.com/embed/live_stream?channel=UCRaoHR6b3zViY9QxfgFNntQ&autoplay=1
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aljamahiriya.jpg" group-title="News",Jamahiria TV 
+https://master.starmena-cloud.com/hls/jam.m3u8
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/libyaalahrar.jpg" group-title="Libya",Libya Alahrar
+https://video.zidivo.com/live983/GrtjM_FNGC/index.m3u8
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/wasat_lybia.jpg" group-title="Libya",Libya wasat
+http://www.elahmad.com/tv/m3u8/kuwait_tv_4.php?id=wasat_lybia
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/apna_alblad.jpg" group-title="Libya",apna alblad
+https://master.starmena-cloud.com/hls/abna.m3u8?DVR
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/salam_tv_libya.jpg" group-title="Libya",salam libya
+https://b01c02nl.mediatriple.net/videoonlylive/mtiwaxdzdfggbnlive/broadcast_5d1b0969c3188.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/february_tv.jpg" group-title="Libya",February Tv
+https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/libyaschannel.jpg" group-title="Libya",libyas channel
+https://master.starmena-cloud.com/hls/libyas.m3u8
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/libyaalhadath.jpg" group-title="Libya",libya alhadath
+http://82.212.74.100:8000/live/8103.m3u8
+
+#EXTINF:-1 tvg-id="2M Monde" tvg-name="2M Monde ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/2m_ma_tv.jpg" group-title="",2M Monde
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_hy217612tge1f21j83/index.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alaoula.jpg" group-title="",Al Aoula
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_inter/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/laayoune.jpg" group-title="",Al Aoula Laayoune
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_aoula_laayoune/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almaghribia.jpg" group-title="",Al Maghribia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/al_maghribia_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/arriyadia.jpg" group-title="Sport",Arryadia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/assadissa.jpg" group-title="",Assadissa
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/assadissa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/attakafiya.jpg" group-title="",Athaqafia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arrabiaa/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/tamazight.jpg" group-title="",Tamazight
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/tamazight_tv8_snrt/hls_snrt/index.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/maptvnews.jpg" group-title="",M24 TV
+https://www.m24tv.ma/live/smil:OutStream1.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="French" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/medi1tv_maghreb.jpg" group-title="",Medi1 TV Maghreb
+https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/medi1tv_arabic.jpg" group-title="",Medi1 TV Arabic
+https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/medi1tv_afrique.jpg" group-title="",Medi1 TV Afrique
+https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/telemaroc.jpg" group-title="",Télé Maroc
+https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
+
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/halabtoday.jpg" group-title="",Halab Today TV
+https://5caf24a595d94.streamlock.net:1937/8010/8010/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lana_syria.jpg" group-title="",Lana HD TV
+http://freearabic.zinamedia.net/ar/L-TV/index.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/lanaplus.jpg" group-title="",Lana Plus TV
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/nour_elsham.jpg" group-title="Religious",Noor Al-Sham
+http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria_nour
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/sama_tv.jpg" group-title="",Sama TV
+http://stream5.sama-tv.net/hls/stream.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/spacetoon.jpg" group-title="Kids",Spacetoon
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/syria_drama.jpg" group-title="Movies",Syria Drama
+http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria_drama
+#EXTINF:-1 tvg-id="Syria Satellite Channel ARB" tvg-name="Syria Satellite Channel ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/syriatv.jpg" group-title="",Syria Channel
+http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/syria_tv.jpg" group-title="",Syria TV
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/syrian_education.jpg" group-title="Education",Syrian Education TV
+http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria_edu
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alikhbaria_syria.jpg" group-title="News",Syrian News
+http://www.elahmad.com/tv/m3u8/syria_tv.m3u8?id=syria_news
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="News",ElahMad.Com
+https://i.imgur.com/N7O42VP.mp4
+
+#EXTINF:-1 tvg-id="AlIttihad.lb" tvg-name="Al Ittihad" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alittihad.jpg" group-title="General",Al Ittihad
+https://live.alittihad.tv/ittihad/index.m3u8
+#EXTINF:-1 tvg-id="AlManar.lb" tvg-name="Al Manar" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almanar.jpg" group-title="News",Al Manar
+https://manar.live/iptv/index.m3u8
+#EXTINF:-1 tvg-id="AlMayadeen.lb" tvg-name="Al Mayadeen" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almayadeen.jpg" group-title="News",Al Mayadeen
+https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Future TV ARB" tvg-name="Future TV ARB" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/future.jpg" group-title="General",Future TV
+https://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
+#EXTINF:-1 tvg-id="LBCInternational.lb" tvg-name="LBC International" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/lbc_international.jpg" group-title="General",LBC International
+https://shls-lbci-prod-dub.shahid.net/out/v1/d8cce30036e743318a7f338539689968/index.m3u8
+#EXTINF:-1 tvg-id="NabaaTV.lb" tvg-name="Nabaa TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="News",Nabaa TV
+https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
+#EXTINF:-1 tvg-id="Newvision.lb" tvg-name="Newvision" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/newvision.jpg" group-title="News",Newvision
+https://master.starmena-cloud.com/hls/newv.m3u8
+#EXTINF:-1 tvg-id="Tele Liban ARB" tvg-name="Tele Liban ARB" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/teleliban.jpg" group-title="General",Tele Liban
+#EXTVLCOPT:http-referrer=https://www.teleliban.com.lb/live
+https://cdn.catiacast.video/abr/ed8f807e2548db4507d2a6f4ba0c4a06/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSeventeen.lb" tvg-name="TV Seventeen" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/tvseventeen.jpg" group-title="News",TV Seventeen
+https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
+
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/almamlakatv.jpg" group-title="",Al Mamlaka TV
+https://almamlka-live.ercdn.net/almamlka/almamlka.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/amman_tv.jpg" group-title="",Amman TV
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
+#EXTINF:-1 tvg-id="Jordan ARB" tvg-name="Jordan ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/jordan_tv.jpg" group-title="",Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="Roya TV ARB" tvg-name="Roya TV ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/royatv.jpg" group-title="",Ro'ya TV
+https://www.youtube.com/embed/live_stream?channel=UC_0F7pdI2lfiEGF0Lpa269Q&autoplay=1
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://jascotvstreaming.com/uploads/settings/15201617635681.png" group-title="",Jasco Events TV
+http://82.212.74.100:8000/live/hls/8131.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/kifa.jpg" group-title="",Kaif TV
+http://82.212.74.2:8000/live/hls/7311.m3u8
+
+#EXTINF:-1 tvg-id="Ajyal TV ARB" tvg-name="Ajyal TV ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/j1Xmygq.jpg" group-title="",Ajyal TV
+http://htvajyal.mada.ps:8888/ajyal/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aqsa_tv.jpg" group-title="",Al Aqsa Channel
+https://live-1.linuxway.info/aqsatv/live/tv/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alfajertv.jpg" group-title="",Alfajer Tv HD 1
+http://www.elahmad.com/tv/m3u8/online_live_9_tv.m3u8?id=alfajertv&v=69990401
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/alfajertv.jpg" group-title="",Alfajer Tv HD 2
+http://two.alfajertv.com:8081/AlfajertvHDTwo_web/web/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/najah.jpg" group-title="",An-Najah News
+https://streaming.najah.edu:8443/hls/AlNajah.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/maannews.jpg" group-title="",Maan News
+http://htvmada.mada.ps:8888/maannews/index.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/musawa.jpg" group-title="",Musawa Channel
+http://htvpalsat.mada.ps:8888/musawa/index.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://i.imgur.com/EKGnd0S.png" group-title="",Orient Radio + Palestine Mubasher
+http://htvint.mada.ps:8889//orient/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/palestine_mobasher.jpg" group-title="",Palestine Mubasher
+http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/palestine_tv.jpg" group-title="",Palestine Satellite Channel
+http://htvpalsat.mada.ps:8888/PBC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="EchoroukNews.dz" tvg-name="Echorouk News" tvg-country="DZ" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/echorouk_news.jpg" group-title="News",Echorouk News
+http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
+#EXTINF:-1 tvg-id="EchoroukTV.dz" tvg-name="Echorouk TV" tvg-country="DZ" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/echorouk_tv.jpg" group-title="",Echorouk TV
+http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukTV/playlist.m3u8
+#EXTINF:-1 tvg-id="EnnaharTV.dz" tvg-name="Ennahar TV" tvg-country="DZ" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/ennahartv.jpg" group-title="",Ennahar TV
+http://numidiatv-live.dzsecurity.net:8081/entv/EnnaharTV_SD/playlist.m3u8
+
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/i_news.jpg" group-title="",I-News TV
+https://svs.itworkscdn.net/inewsiqlive/inewsiq.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aletejahtv.jpg" group-title="",Al etejah TV
+http://streaming.aletejahtv.iq:1935/etejah-newLive/smil:etejahNew.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="AlSumaria.iq" tvg-name="Al Sumaria" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alsumaria.jpg" group-title="General",Al Sumaria
+http://www.elahmad.com/tv/m3u8/online_live_9_tv.m3u8?id=sumari&v=69677218
+#EXTINF:-1 tvg-id="Al Hurra ARB" tvg-name="Al Hurra ARB" tvg-language="Arabic" tvg-logo="https://gdb.alhurra.eu/C4BE79AD-607A-4EBA-8449-7CC6E2B12566_w1200_r1_s.jpg" group-title="News",Al Hurra
+https://mbnvvideoingest-i.akamaihd.net/hls/live/1004673/MBNV_ALHURRA_MAIN/merge.m3u8
+#EXTINF:-1 tvg-id="Al Hurra Iraq ARB" tvg-name="Al Hurra Iraq ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/al_hurra_iraq.jpg" group-title="News",Al Hurra Iraq
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/aliraqya_tv.jpg" group-title="News",Al Iraqiya tv
+http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Iraqiya TV ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/iraqiya_news.jpg" group-title="News",Al Iraqiya News
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alrafidain.jpg" group-title="General",Al Rafidain
+https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alrafidain.jpg" group-title="General",Al Rafidain HQ
+http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alrasheed.jpg" group-title="",Al Rasheed
+https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
+#EXTINF:-1 tvg-id="Al Sharqiya ARB" tvg-name="Al Sharqiya ARB" tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/alsharqiya.jpg" group-title="General",Al Sharqiya
+https://5d94523502c2d.streamlock.net/home/mystream/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/charkiyanews.jpg" group-title="News",Al Sharqiya News
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/dijlah.jpg" group-title="News",Dijlah
+https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/dijlah.jpg" group-title="News",Dijlah (Backup)
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-language="Kurdish" tvg-logo="https://www.kurdch.tv/wp-content/uploads/2020/06/kurdch-logo-300x240.png" group-title="",Kurd Channel
+https://server12.ikomg.live/hls/kurd.m3u8
+#EXTINF:-1 tvg-language="Kurdish" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/kurdistantv.jpg" group-title="",Kurdistan TV
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
+#EXTINF:-1 tvg-language="Kurdish" tvg-logo="https://i.imgur.com/XFbwbi4.png" group-title="",Kurdsat
+http://ikomg2.mmdlive.lldns.net/ikomg2/366ca61db4c646a2bf9cd9f92dd6321c/manifest.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/mbc_iraq.jpg" group-title="",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 tvg-language="Kurdish" tvg-logo="http://www.elahmad.com/tv/mobiletv/images/rudawtv.jpg" group-title="",Rudaw TV
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
+#EXTINF:-1 tvg-language="Turkish" tvg-logo="https://www.hdtvler.tv/media/images/tvlogo/turkmenelitv-hdtvler-posd.png" group-title="General",Türkmeneli
+https://137840.global.ssl.fastly.net/edge/live_6b7c6e205afb11ebb010f5a331abaf98/index.m3u8
+#EXTINF:-1 tvg-language="Arabic" tvg-logo="https://www.elahmad.com/tv/mobiletv/images/zagrosnews.jpg" group-title="General",Zagros
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 tvg-country="" tvg-language="" tvg-logo="https://kirkuktv.net/wene/logo.png" group-title="",KIRKUK TV
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/58.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/belqees_tv.jpg" group-title="yemen",Belqees TV
+https://www.youtube.com/embed/live_stream?channel=UCxA_zZwALQMmVMSZyLKC-Nw&autoplay=1
+
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/tunisia_watania1.jpg" group-title="tunisia",Watania 1
+https://www.youtube.com/embed/live_stream?channel=UCdvWVsmQBROkgcGzVep73oA&autoplay=1
+
+#EXTINF:-1 tvg-logo="http://www.elahmad.com/tv/mobiletv/images/watania2.jpg" group-title="tunisia",Watania 2
+https://www.youtube.com/embed/live_stream?channel=UCJW9gatYczI191TunQxMGbA&autoplay=1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/cuNlrK6.jpg" group-title="News",ELahmad.Com
+https://i.imgur.com/N7O42VP.mp4
